@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ContainerAssigner.Business.Container">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAACAAEEAAAACAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Container.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContainerAssigner.Business.ContainerStack">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAABACAEAAAAgBAAAAAAA=</HashCode>
+      <FileName>ContainerStack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContainerAssigner.Business.ContainerShip">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAAAAAAgACAAgQAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContainerShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContainerAssigner.Business.ContainerStackColumn">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEABAAEAAAAAAAAgCAICAAAABAAAAAAA=</HashCode>
+      <FileName>ContainerStackColumn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContainerAssigner.Business.ContainerShipCreator">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>ContainerShipCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ContainerAssigner.Business.ContainerType">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAEAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContainerType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ContainerAssigner.Business.Placement">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACQEAAAAAA=</HashCode>
+      <FileName>Placement.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

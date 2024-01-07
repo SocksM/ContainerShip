@@ -1,0 +1,12 @@
+C:\Github\ContainerShip\ContainerAssigner\ContainerAssigner.Business\bin\Debug\net8.0\ContainerAssigner.Business.deps.json
+C:\Github\ContainerShip\ContainerAssigner\ContainerAssigner.Business\bin\Debug\net8.0\ContainerAssigner.Business.dll
+C:\Github\ContainerShip\ContainerAssigner\ContainerAssigner.Business\bin\Debug\net8.0\ContainerAssigner.Business.pdb
+C:\Github\ContainerShip\ContainerAssigner\ContainerAssigner.Business\obj\Debug\net8.0\ContainerAssigner.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\ContainerShip\ContainerAssigner\ContainerAssigner.Business\obj\Debug\net8.0\ContainerAssigner.Business.AssemblyInfoInputs.cache
+C:\Github\ContainerShip\ContainerAssigner\ContainerAssigner.Business\obj\Debug\net8.0\ContainerAssigner.Business.AssemblyInfo.cs
+C:\Github\ContainerShip\ContainerAssigner\ContainerAssigner.Business\obj\Debug\net8.0\ContainerAssigner.Business.csproj.CoreCompileInputs.cache
+C:\Github\ContainerShip\ContainerAssigner\ContainerAssigner.Business\obj\Debug\net8.0\ContainerAssigner.Business.sourcelink.json
+C:\Github\ContainerShip\ContainerAssigner\ContainerAssigner.Business\obj\Debug\net8.0\ContainerAssigner.Business.dll
+C:\Github\ContainerShip\ContainerAssigner\ContainerAssigner.Business\obj\Debug\net8.0\refint\ContainerAssigner.Business.dll
+C:\Github\ContainerShip\ContainerAssigner\ContainerAssigner.Business\obj\Debug\net8.0\ContainerAssigner.Business.pdb
+C:\Github\ContainerShip\ContainerAssigner\ContainerAssigner.Business\obj\Debug\net8.0\ref\ContainerAssigner.Business.dll
